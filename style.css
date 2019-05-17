@@ -1,1 +1,14 @@
 
+* { 
+
+    color:black;
+    text-align: center;
+    background-color: rgb(51, 76, 104);
+}
+
+img {
+
+    width: 50%;
+    height: 70%;
+
+}
